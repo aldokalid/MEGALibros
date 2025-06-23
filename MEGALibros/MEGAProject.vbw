@@ -1,0 +1,6 @@
+MainForm = 84, 39, 876, 513, C, 25, 25, 841, 573, C
+DBModule = 0, 0, 762, 434, C
+LoginForm = 130, 130, 892, 564, C, 87, 88, 849, 522, C
+SessionModule = 145, 131, 907, 565, C
+AddOrUpdateBookForm = 163, 47, 925, 551, C, 78, 78, 840, 512, C
+GenreEditorForm = 118, 131, 880, 565, C, 26, 26, 788, 460, C
