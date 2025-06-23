@@ -15,6 +15,12 @@ Hacer un programa para Windows de un hub de entretenimiento con lo siguiere.
 Todo con SQL Server y Visual Basic 6.
 
 
+# NOTA IMPORTANTE.
+Alguas características del programa no están disponibles para usuarios que no sean el administrador. Para usar estas características, accede con estas credenciales:
+  - Usuario: admin
+  - Contraseña: admin
+
+
 ## Nombre del desarrollador.
 Aldo Kalid Hernández Camarena
 
@@ -34,7 +40,7 @@ La interfaz contiene una tabla (donde se muestra el catálogo de libros) y una b
 
 
 ## Modelo ER.
-![ER](./readme_assets/er.png)
+![ER](./readme_assets/ER.png)
 
 
 ## Problemas conocidos.
